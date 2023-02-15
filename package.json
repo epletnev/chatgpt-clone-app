@@ -2,7 +2,7 @@
   "name": "chatgpt-clone-bot",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://epletnev.github.io/chatgpt-clone",
+  "homepage": "https://epletnev.github.io/chatgpt-clone-app",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
