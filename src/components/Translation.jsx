@@ -19,7 +19,7 @@ export default function Translation({ doStuff, setInput, result }) {
       <button className="action-btn" onClick={doStuff}>
         DO YOUR STUFF!
       </button>
-      <a href="/">
+      <a href="https://epletnev.github.io/chatgpt-clone">
         <button className="action-btn">TAKE ME BACK</button>
       </a>
       <h3 className="result-text">{result.length > 0 ? result : ""}</h3>
